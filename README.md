@@ -1,7 +1,7 @@
 <!--
  * @Author: chenjianying
  * @Date: 2020-08-25 16:45:38
- * @LastEditTime: 2020-08-25 16:48:49
+ * @LastEditTime: 2020-08-25 16:57:01
  * @FilePath: \npm_modules\README.md
 -->
 # cjy_fetch polyfill
@@ -19,7 +19,7 @@ const fetch = require('cjy_fetch');
 ## Usage
 
 For a more comprehensive API reference that this polyfill supports, refer to
-https://github.com/hemiahwu/cjy_fetch
+https://github.com/cjyCJ/cjy_fetch
 
 ### Importing
 
